@@ -1,9 +1,10 @@
 <img src="https://widgetbite.com/banner?title=Zoren%20Aguilar&subtitle=Full%20Stack%20Web%20Dev&backgroundpalette=fusion&fontpalette=harvest&titletransform=rotate&subtitletransform=scale" width=100% height=100%/>
 <h1 align="center">Hi 👋, I'm Zoren Aguilar</h1>
 <h3 align="center">A passionate Web Developer in Philippines</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/2956148/attachments/2956148-Drinking-coffee-animation?mode=media">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zorenthegreat&label=Profile%20views&color=0e75b6&style=flat" alt="zorenthegreat" /> </p>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/698857/screenshots/2956148/final-animation.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zorenthegreat" alt="zorenthegreat" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
